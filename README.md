@@ -38,7 +38,7 @@ Obs: para interpolar os valores desse objeto, não esqueça de criar uma vriáve
 
 ## :point_right: Resultado:
 
-![image](https://user-images.githubusercontent.com/112510971/225499025-da3a3ed4-2ff8-4dc8-9912-91630caaeede.png)
+![image](https://user-images.githubusercontent.com/112510971/225712584-38ad2b6b-a603-46f3-af3f-c84ff13ece9c.png)
 
 
 ## Clone este repositório através do GIT:
